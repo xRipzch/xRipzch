@@ -15,8 +15,8 @@ Welcome to my GitHub profile—this is where you'll find my projects, contributi
 
 ## 🌟 Projects
 Here are a few of my recent projects:
-- **[KinoXP Frontend](https://github.com/xRipzch/KinoXP-IntellijKings-FrontEnd):** A full-stack project built for a cinema, as a finals porject.
-- **[KinoXP Backend](https://github.com/xRipzch/KinoXPBackend):** A full-stack project built for a cinema, as a finals porject.
+- **[KinoXP Frontend](https://github.com/xRipzch/KinoXP-IntellijKings-FrontEnd):** A full-stack project built for a cinema, as a finals project.
+- **[KinoXP Backend](https://github.com/xRipzch/KinoXPBackend):** A full-stack project built for a cinema, as a finals project.
 - **[Tic Tac Toe](https://github.com/xRipzch/Tic-Tac-Toe.py):** A fun Python project exploring game development.
 
 ## 🎨 Fun Fact
