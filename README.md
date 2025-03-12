@@ -5,9 +5,8 @@ Welcome to my GitHub profile—this is where you'll find my projects, contributi
 ## 🚀 About Me
 - 🎓 I'm a Computer Science student who loves diving into new technologies.
 - 💼 I'm passionate about Cyber Security and Web Development.
-- 🌱 I'm always learning—right now, I'm sharpening my skills in JPA for Spring Boot.
-- 🔍 When I'm not coding, I enjoy exploring full-stack projects, whether it's building a TicTacToe game in Python or creating a Spotify song recommender using cool APIs.
-
+- 🌱 I'm always learning, — right now, I'm sharpening my skills in JPA for Spring Boot.
+- 🔍 When I'm not coding, I enjoy exploring spending time with my family, and riding my motorcycle.
 ## 🔧 Technologies & Tools
 - **Languages:** Java, Js/TS, Python, React Native, MySQL & HTML/CSS
 - **Tools:** IntelliJ IDE, VSCode, Docker, MySQL, Windows, Linux  
@@ -20,7 +19,7 @@ Here are a few of my recent projects:
 - **[Tic Tac Toe](https://github.com/xRipzch/Tic-Tac-Toe.py):** A fun Python project exploring game development.
 
 ## 🎨 Fun Fact
-I love riding motorcycles, traveling, and sampling local dishes from different cultures!
+Rockin' AthenaOS
 
 ---
 
