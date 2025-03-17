@@ -19,7 +19,7 @@ Here are a few of my recent projects:
 - **[Tic Tac Toe](https://github.com/xRipzch/Tic-Tac-Toe.py):** A fun Python project exploring game development.
 
 ## 🎨 Fun Fact
-Rockin' AthenaOS
+Learning Arch Linux :woozy_face:
 
 ---
 
