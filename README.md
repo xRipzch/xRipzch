@@ -1,56 +1,66 @@
-# 💫 About Me
-👋 Hello, I'm Anders from Denmark!  
-Welcome to my GitHub profile—this is where you'll find my projects, contributions, and a little insight into who I am. Feel free to explore, connect, or just say hi!
+# Hey, I'm Anders 👋
 
-## 🚀 About Me
-- 🎓 I'm a Computer Science student who loves diving into new technologies.
-- 💼 I'm passionate about Cyber Security and Web Development.
-- 🌱 I'm always learning, — right now, I'm sharpening my skills in JPA for Spring Boot.
-- 🔍 When I'm not coding, I enjoy exploring spending time with my family, and riding my motorcycle.
-## 🔧 Technologies & Tools
-- **Languages:** Java, Js/TS, Python, React Native, MySQL & HTML/CSS
-- **Tools:** IntelliJ IDE, VSCode, Docker, MySQL, Windows, Linux  
-- **Frameworks:** Spring Boot (I'm eager to learn Ruby on Rails!)
+```
+ ██████╗  █████╗ ██╗   ██╗███████╗███╗   ██╗██████╗ ███████╗██╗   ██╗
+ ██╔══██╗██╔══██╗██║   ██║██╔════╝████╗  ██║██╔══██╗██╔════╝██║   ██║
+ ██████╔╝███████║██║   ██║█████╗  ██╔██╗ ██║██║  ██║█████╗  ██║   ██║
+ ██╔══██╗██╔══██║╚██╗ ██╔╝██╔══╝  ██║╚██╗██║██║  ██║██╔══╝  ╚██╗ ██╔╝
+ ██║  ██║██║  ██║ ╚████╔╝ ███████╗██║ ╚████║██████╔╝███████╗ ╚████╔╝ 
+ ╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝  ╚══════╝╚═╝  ╚═══╝╚═════╝ ╚══════╝  ╚═══╝  
+```
 
-## 🌟 Projects
-Here are a few of my recent projects:
-- **[KinoXP Frontend](https://github.com/xRipzch/KinoXP-IntellijKings-FrontEnd):** A full-stack project built for a cinema, as a finals project.
-- **[KinoXP Backend](https://github.com/xRipzch/KinoXPBackend):** A full-stack project built for a cinema, as a finals project.
-- **[Tic Tac Toe](https://github.com/xRipzch/Tic-Tac-Toe.py):** A fun Python project exploring game development.
-
-## 🎨 Fun Fact
-Learning Arch Linux :woozy_face:
+RavenDev obsessed with building things that actually work—whether that's web apps, backend systems, or wrestling with Arch Linux. When I'm not coding, you'll find me on a motorcycle or spending time with family.
 
 ---
 
-# 💻 Tech Stack
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
-![TypeScript](https://img.shields.io/badge/typescript-3178C6.svg?style=flat&logo=typescript&logoColor=white) 
-![React Native](https://img.shields.io/badge/React_Native-20232A.svg?style=flat&logo=react&logoColor=61DAFB) 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) 
-![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white) 
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=flat&logo=Thymeleaf&logoColor=white) 
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
+## 🎯 What I'm Into
+
+| **Right now** | **Generally** | **Outside code** |
+|---|---|---|
+| 🐍 CLI tools in Python | 💡 Clean code | 🏍️ Motorcycles |
+| 🐧 Taming Arch Linux | 🔍 Problem solving | 👨‍👩‍👦 Family time |
+| 🔐 Cybersecurity | ⚙️ System architecture | 📚 Continuous learning |
 
 ---
 
-# 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=xripzch&theme=monokai&hide_border=false&include_all_commits=false&count_private=false)  
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=xripzch&theme=monokai&hide_border=false)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xripzch&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 💻 Tech Stack
+
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+### Frontend & Mobile
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend & Databases
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools & Platforms
+![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
 
-### ✍️ Random Dev Quote
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 🤝 Let's Connect
+
+Feel free to explore my repos, check out what I'm working on, or just say hi. I'm always interested in talking about code, web dev, cybersecurity, or comparing motorcycle stories.
+
+```
+┌─────────────────────────────────────┐
+│  Building cool stuff, one line      │
+│  of code at a time 🚀              │
+└─────────────────────────────────────┘
+```
 
 ---
 
-[![Visitor Count](https://visitcount.itsvg.in/api?id=xRipzch&icon=0&color=8)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**Last updated:** 2025-10-20 12:29:37
