@@ -1,15 +1,15 @@
 # Hey, I'm Anders 👋
 
 ```
- ██████╗  █████╗ ██╗   ██╗███████╗███╗   ██╗██████╗ ███████╗██╗   ██╗
- ██╔══██╗██╔══██╗██║   ██║██╔════╝████╗  ██║██╔══██╗██╔════╝██║   ██║
- ██████╔╝███████║██║   ██║█████╗  ██╔██╗ ██║██║  ██║█████╗  ██║   ██║
- ██╔══██╗██╔══██║╚██╗ ██╔╝██╔══╝  ██║╚██╗██║██║  ██║██╔══╝  ╚██╗ ██╔╝
- ██║  ██║██║  ██║ ╚████╔╝ ███████╗██║ ╚████║██████╔╝███████╗ ╚████╔╝ 
- ╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝  ╚══════╝╚═╝  ╚═══╝╚═════╝ ╚══════╝  ╚═══╝  
+ ██████╗  █████╗ ██╗   ██╗███████╗███╗   ██╗    ██████╗ ███████╗██╗   ██╗
+ ██╔══██╗██╔══██╗██║   ██║██╔════╝████╗  ██║    ██╔══██╗██╔════╝██║   ██║
+ ██████╔╝███████║██║   ██║█████╗  ██╔██╗ ██║    ██║  ██║█████╗  ██║   ██║
+ ██╔══██╗██╔══██║╚██╗ ██╔╝██╔══╝  ██║╚██╗██║    ██║  ██║██╔══╝  ╚██╗ ██╔╝
+ ██║  ██║██║  ██║ ╚████╔╝ ███████╗██║ ╚████║    ██████╔╝███████╗ ╚████╔╝ 
+ ╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝  ╚══════╝╚═╝  ╚═══╝    ╚═════╝ ╚══════╝  ╚═══╝  
 ```
 
-RavenDev obsessed with building things that actually work—whether that's web apps, backend systems, or wrestling with Arch Linux. When I'm not coding, you'll find me on a motorcycle or spending time with family.
+Obsessed with building things that actually work—whether that's web apps, backend systems, or wrestling with Arch Linux. When I'm not coding, you'll find me on a motorcycle or spending time with family.
 
 ---
 
