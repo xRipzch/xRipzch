@@ -57,8 +57,8 @@ Feel free to explore my repos, check out what I'm working on, or just say hi. I'
 
 ```
 ┌─────────────────────────────────────┐
-│  Building cool stuff, one line      │
-│  of code at a time 🚀              │
+│  Building cool stuff, one line            │
+│  of code at a time 🚀                     │
 └─────────────────────────────────────┘
 ```
 
