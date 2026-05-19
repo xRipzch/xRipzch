@@ -4,7 +4,7 @@ Computer Science student with a focus on building practical tools and securing s
 
 ## About
 
-I spend most of my time writing Python and working with Linux systems (Arch, specifically). Recently started learning Rust to expand beyond scripting into systems programming. I approach development with a focus on solving real problems—whether that's building CLI tools, automating workflows, or helping non-technical users understand their security posture.
+I spend most of my time writing Python and working with Linux systems (Arch, specifically). Recently started learning Golang to expand beyond scripting into systems programming. I approach development with a focus on solving real problems—whether that's building CLI tools, automating workflows, or helping non-technical users understand their security posture.
 
 ## Current Focus
 
