@@ -15,7 +15,7 @@ I spend most of my time writing Python and working with Linux systems (Arch, spe
 
 ## Technical Experience
 
-**Languages:** Python, Java, JavaScript/TypeScript, Shell scripting, Rust (learning)
+**Languages:** Python, Java, JavaScript/TypeScript, Shell scripting, Golang (learning)
 
 **Technologies:** PyQt6, React/React Native, Spring Boot, Docker, MySQL
 
